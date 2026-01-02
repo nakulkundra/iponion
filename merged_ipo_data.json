@@ -1,22 +1,5 @@
 [
     {
-        "IPO Name":"E to E Transportation",
-        "Type_sub":"SME",
-        "Day":"Closed",
-        "QIB":236.3,
-        "NII":872.09,
-        "Retail":"544.28",
-        "Total":526.56,
-        "Applications":665431.0,
-        "Normalized_IPO_Name":"E to E Transportation",
-        "Stock \/ IPO":"E to E Transportation",
-        "IPO GMP":145.0,
-        "IPO Price":174.0,
-        "Listing Gain":83.33,
-        "Date":"26-30 Dec",
-        "Type_gmp":"SME"
-    },
-    {
         "IPO Name":"Gabion Technologies",
         "Type_sub":"SME",
         "Day":"6-8 Jan",
@@ -36,17 +19,17 @@
     {
         "IPO Name":"Modern Diagnostic",
         "Type_sub":"SME",
-        "Day":"2",
-        "QIB":4.01,
-        "NII":17.73,
-        "Retail":"14.48",
-        "Total":12.18,
-        "Applications":7350.0,
+        "Day":"3",
+        "QIB":8.95,
+        "NII":86.94,
+        "Retail":"45.07",
+        "Total":43.7,
+        "Applications":24772.0,
         "Normalized_IPO_Name":"Modern Diagnostic",
         "Stock \/ IPO":"Modern Diagnostic",
-        "IPO GMP":13.0,
+        "IPO GMP":14.0,
         "IPO Price":90.0,
-        "Listing Gain":14.44,
+        "Listing Gain":15.56,
         "Date":"31-2 Jan",
         "Type_gmp":"SME"
     }
