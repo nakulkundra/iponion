@@ -34,6 +34,23 @@
         "Type":"SME"
     },
     {
+        "Company":"Brandman Retail",
+        "IPO Type":"SME",
+        "Closing Date":"6 Feb",
+        "QIB":0.0,
+        "NII(X)":"0.00",
+        "Retail":"0.00",
+        "Total":0.0,
+        "Normalized_IPO_Name":"Brandman Retail",
+        "Stock \/ IPO":"Brandman Retail",
+        "IPO GMP":0,
+        "IPO Price":176,
+        "Listing Gain":null,
+        "Review":"\u2013",
+        "Date":"4-6 Feb",
+        "Type":"SME"
+    },
+    {
         "Company":"CKK Retail Mart",
         "IPO Type":"SME",
         "Closing Date":"3 Feb",
