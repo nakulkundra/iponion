@@ -36,8 +36,8 @@
     {
         "IPO":"Clean Max Enviro",
         "Type_sub":"Mainboard",
-        "Opening Date":"2026",
-        "Closing Date":"2026",
+        "Opening Date":"Feb 20, 2026",
+        "Closing Date":"Feb 24, 2026",
         "QIB  (X)":"",
         "NII  (X)":"",
         "Retail  (X)":"",
@@ -47,7 +47,7 @@
         "IPO GMP":0.0,
         "IPO Price":null,
         "Listing Gain":null,
-        "Date":"2026",
+        "Date":"20-24 Feb",
         "Type_gmp":"Mainboard"
     },
     {
@@ -61,9 +61,9 @@
         "Total (X)":"2.81",
         "Normalized_IPO_Name":"Fractal Analytics",
         "Stock \/ IPO":"Fractal Analytics",
-        "IPO GMP":2.0,
+        "IPO GMP":0.0,
         "IPO Price":900.0,
-        "Listing Gain":0.22,
+        "Listing Gain":null,
         "Date":"9-11 Feb",
         "Type_gmp":"Mainboard"
     },
@@ -90,9 +90,9 @@
         "Opening Date":"Feb 12, 2026",
         "Closing Date":"Feb 16, 2026",
         "QIB  (X)":"",
-        "NII  (X)":"0.04",
-        "Retail  (X)":"0.25",
-        "Total (X)":"0.13",
+        "NII  (X)":"0.14",
+        "Retail  (X)":"0.63",
+        "Total (X)":"0.34",
         "Normalized_IPO_Name":"Marushika Technology",
         "Stock \/ IPO":"Marushika Technology",
         "IPO GMP":0.0,
@@ -130,8 +130,8 @@
         "Normalized_IPO_Name":"PNGS Reva Diamond",
         "Stock \/ IPO":"PNGS Reva Diamond",
         "IPO GMP":20.0,
-        "IPO Price":null,
-        "Listing Gain":null,
+        "IPO Price":386.0,
+        "Listing Gain":5.18,
         "Date":"24-26 Feb",
         "Type_gmp":"Mainboard"
     }
